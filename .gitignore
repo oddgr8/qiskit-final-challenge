@@ -146,3 +146,12 @@ cython_debug/
 
 # macOS meta files
 .DS_Store/
+
+# dataset
+dataset/
+
+# Output files
+answer.py
+feature_map.py
+optimal_params.py
+variational_circuit.py
