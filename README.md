@@ -1,5 +1,6 @@
-# blockchain_assignments
-Repository for CS 765 course assignments
+# Qiskit Final Challenge
+
+Repository for Qiskit challenge india 2020
 
 ### Requirements
 
